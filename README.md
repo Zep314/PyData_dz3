@@ -74,4 +74,4 @@
 Данные в MongoDB Compass:
 ![screen1.png](screen1.png)
 
-Файл с данными скрейпинга: [rezult.json](rezult.json)
+Файл с данными скрейпинга: [source.json](source.json)
